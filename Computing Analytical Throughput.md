@@ -1,6 +1,6 @@
 ## Computing Analatycal Throughput
 
-Using the equations provided below, the throughput of the system can be found.
+>Using the equations provided below, the throughput of the system can be found.
 
 <img src="https://latex.codecogs.com/svg.latex?\small&space;P=1-(1-\tau)^{n-1}" />
 
@@ -14,11 +14,9 @@ Using the equations provided below, the throughput of the system can be found.
 
 <img src="https://latex.codecogs.com/svg.latex?\small&space;T_c=T_{RTS}+DIFS" />
 
-Average Packet Playloed Size= <img src="https://latex.codecogs.com/svg.latex?\small&space;E[P]=100" />
+*Average Packet Playloed Size* = <img src="https://latex.codecogs.com/svg.latex?\small&space;E[P]=100" /> <br/> <br/>
 
-
-
-After finding p, τ, Ps, Ptr, Ts, and Tc, the throughput S can be calculated using the equation below:
+>After finding p, τ, Ps, Ptr, Ts, and Tc, the throughput S can be calculated using the equation below:
 
 <img src="https://latex.codecogs.com/svg.latex?\small&space;S=\frac{P_sP_t_rE[P]}{(1-P_tr)\sigma+P_t_rP_sT_s+P_t_r(1-P_s)T_c}" />
 

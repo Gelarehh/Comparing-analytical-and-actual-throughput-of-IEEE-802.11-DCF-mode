@@ -4,7 +4,7 @@ A network using IEEE 802.11 DCF mode as MAC protocol is considered. There are n 
 
 The throughput of the system is defined as the number of bytes delivered over a communication channelper per time unit. Varying the number of nodes from 2 to 10, with steps of 2, (n=2,4,6,8,10), the throughput of the network can be calculated in two ways: analytical and actual.
 
-After calculating the throughputs in both ways, a graphical comparison is presented.
+After calculating the throughputs from both points of view, a graphical comparison is presented, too.
 
 The system parameters are as follows:
 

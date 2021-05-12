@@ -18,3 +18,4 @@ The system parameters are as follows:
 	Average packet payload size = 100 bytes.
 
 
+![image](https://user-images.githubusercontent.com/66460485/117921795-98d1e400-b306-11eb-9ccb-33f139b95d61.png)

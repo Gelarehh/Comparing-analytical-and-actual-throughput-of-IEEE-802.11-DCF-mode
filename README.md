@@ -4,6 +4,8 @@ A network using IEEE 802.11 DCF mode as MAC protocol is considered. There are n 
 
 Varying the number of nodes from 2 to 10, with steps of 2, (n=2,4,6,8,10), the throughput of the network can be calculated in two ways: analytical and actual.
 
+After calculating the throughput in both ways, a grafical comparison is presented.
+
 The system parameters are as follows:
 
 	Slot time = 1 time unit;

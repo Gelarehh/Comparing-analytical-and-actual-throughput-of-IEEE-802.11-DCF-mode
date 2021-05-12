@@ -1,6 +1,6 @@
 ## Computing Actual Throughput
 
-In this part, a simulator is developed to model the actual system and find its actual throughput. The actual values for the probability of collision (p) and the probability of transmission (τ) for each node are found using simulations and compared with the analytical results. Simulations are done in MATLAB.
+In this part, a simulator is developed to model the actual system and find its actual throughput. The actual values for the probability of collision (p) and the probability of transmission (τ) for each node are found using simulations and compared with the analytical results. Simulations are done in MATLAB, and corresponding codes are separately attached.
 
     clc
     clear

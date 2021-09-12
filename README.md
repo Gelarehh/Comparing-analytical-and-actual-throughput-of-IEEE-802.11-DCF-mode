@@ -1,4 +1,4 @@
-# Comparing analytical and actual throughput of IEEE 802.11 DCF mode
+# Comparing Analytical and Actual Throughput of IEEE 802.11 DCF Mode
 
 A network using IEEE 802.11 DCF mode as MAC protocol is considered. There are n nodes in the network where they all always have packets to transmit. It is assumed that all the nodes can hear all the transmissions, including RTS, CTS, DATA, and ACK.
 
